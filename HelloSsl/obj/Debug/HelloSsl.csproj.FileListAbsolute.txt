@@ -1,0 +1,9 @@
+D:\Hello World\HelloSsl\HelloSsl\bin\Debug\HelloSsl.exe.config
+D:\Hello World\HelloSsl\HelloSsl\obj\Debug\HelloSsl.csprojResolveAssemblyReference.cache
+D:\Hello World\HelloSsl\HelloSsl\bin\Debug\HelloSsl.exe
+D:\Hello World\HelloSsl\HelloSsl\bin\Debug\HelloSsl.pdb
+D:\Hello World\HelloSsl\HelloSsl\obj\Debug\HelloSsl.exe
+D:\Hello World\HelloSsl\HelloSsl\obj\Debug\HelloSsl.pdb
+D:\MJ-D-Drive\Hello World\HelloSsl\HelloSsl\bin\Debug\HelloSsl.exe.config
+D:\MJ-D-Drive\Hello World\HelloSsl\HelloSsl\obj\Debug\HelloSsl.exe
+D:\MJ-D-Drive\Hello World\HelloSsl\HelloSsl\obj\Debug\HelloSsl.pdb

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloSsl", "HelloSsl\HelloSsl.csproj", "{DD694037-59BB-4C33-9664-5E1428B24298}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloSslClient", "HelloSslClient\HelloSslClient.csproj", "{1017EF15-41FE-4808-9612-E9525E09A4D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloEncrypt", "HelloEncrypt\HelloEncrypt.csproj", "{93BCC5BB-EEE7-4E8E-82D6-144925D7BCE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD694037-59BB-4C33-9664-5E1428B24298}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD694037-59BB-4C33-9664-5E1428B24298}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD694037-59BB-4C33-9664-5E1428B24298}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD694037-59BB-4C33-9664-5E1428B24298}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1017EF15-41FE-4808-9612-E9525E09A4D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1017EF15-41FE-4808-9612-E9525E09A4D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1017EF15-41FE-4808-9612-E9525E09A4D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1017EF15-41FE-4808-9612-E9525E09A4D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93BCC5BB-EEE7-4E8E-82D6-144925D7BCE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93BCC5BB-EEE7-4E8E-82D6-144925D7BCE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93BCC5BB-EEE7-4E8E-82D6-144925D7BCE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93BCC5BB-EEE7-4E8E-82D6-144925D7BCE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

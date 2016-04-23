@@ -1,0 +1,6 @@
+D:\Hello World\HelloSsl\HelloEncrypt\bin\Debug\HelloEncrypt.exe.config
+D:\Hello World\HelloSsl\HelloEncrypt\bin\Debug\HelloEncrypt.exe
+D:\Hello World\HelloSsl\HelloEncrypt\bin\Debug\HelloEncrypt.pdb
+D:\Hello World\HelloSsl\HelloEncrypt\obj\Debug\HelloEncrypt.csprojResolveAssemblyReference.cache
+D:\Hello World\HelloSsl\HelloEncrypt\obj\Debug\HelloEncrypt.exe
+D:\Hello World\HelloSsl\HelloEncrypt\obj\Debug\HelloEncrypt.pdb

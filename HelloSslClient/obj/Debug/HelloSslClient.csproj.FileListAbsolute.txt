@@ -1,0 +1,24 @@
+D:\Hello World\HelloSsl\HelloSslClient\bin\Debug\HelloSslClient.exe.config
+D:\Hello World\HelloSsl\HelloSslClient\bin\Debug\HelloSslClient.exe
+D:\Hello World\HelloSsl\HelloSslClient\bin\Debug\HelloSslClient.pdb
+D:\Hello World\HelloSsl\HelloSslClient\obj\Debug\HelloSslClient.exe
+D:\Hello World\HelloSsl\HelloSslClient\obj\Debug\HelloSslClient.pdb
+D:\Hello World\HelloSsl\HelloSslClient\obj\Debug\HelloSslClient.csprojResolveAssemblyReference.cache
+D:\MJ-D-Drive\Hello World\HelloSsl\HelloSslClient\bin\Debug\HelloSslClient.exe.config
+D:\MJ-D-Drive\Hello World\HelloSsl\HelloSslClient\obj\Debug\HelloSslClient.exe
+D:\MJ-D-Drive\Hello World\HelloSsl\HelloSslClient\obj\Debug\HelloSslClient.pdb
+D:\MJ-D-Drive\Hello World\HelloSsl\HelloSslClient\bin\Debug\HelloSslClient.exe
+D:\MJ-D-Drive\Hello World\HelloSsl\HelloSslClient\bin\Debug\HelloSslClient.pdb
+D:\MJ-D-Drive\Hello World\HelloSsl\HelloSslClient\obj\Debug\HelloSslClient.csprojResolveAssemblyReference.cache
+D:\MJ-HelloWorld\HelloSsl\HelloSslClient\bin\Debug\HelloSslClient.exe.config
+D:\MJ-HelloWorld\HelloSsl\HelloSslClient\obj\Debug\HelloSslClient.exe
+D:\MJ-HelloWorld\HelloSsl\HelloSslClient\obj\Debug\HelloSslClient.pdb
+D:\MJ-HelloWorld\HelloSsl\HelloSslClient\bin\Debug\HelloSslClient.exe
+D:\MJ-HelloWorld\HelloSsl\HelloSslClient\bin\Debug\HelloSslClient.pdb
+D:\MJ-HelloWorld\HelloSsl\HelloSslClient\obj\Debug\HelloSslClient.csprojResolveAssemblyReference.cache
+D:\MJ-GitHub\HelloSslCSharpWithClientAuth\HelloSslClient\bin\Debug\HelloSslClient.exe.config
+D:\MJ-GitHub\HelloSslCSharpWithClientAuth\HelloSslClient\obj\Debug\HelloSslClient.exe
+D:\MJ-GitHub\HelloSslCSharpWithClientAuth\HelloSslClient\obj\Debug\HelloSslClient.pdb
+D:\MJ-GitHub\HelloSslCSharpWithClientAuth\HelloSslClient\bin\Debug\HelloSslClient.exe
+D:\MJ-GitHub\HelloSslCSharpWithClientAuth\HelloSslClient\bin\Debug\HelloSslClient.pdb
+D:\MJ-GitHub\HelloSslCSharpWithClientAuth\HelloSslClient\obj\Debug\HelloSslClient.csprojResolveAssemblyReference.cache
