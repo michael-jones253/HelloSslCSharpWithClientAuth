@@ -13,6 +13,7 @@ namespace HelloSsl
         static int Main(string[] args)
         {
             string certificate = null;
+            string password = null;
             bool authClient = false;
             bool checkRevoke = false;
 
@@ -21,6 +22,11 @@ namespace HelloSsl
                 if (args[argc] == "--cert")
                 {
                     certificate = args[++argc];
+                }
+
+                if (args[argc] == "--password")
+                {
+                    password = args[++argc];
                 }
 
                 if (args[argc] == "--authclient")
@@ -36,7 +42,7 @@ namespace HelloSsl
 
             try
             {
-                var server = new SslTcpServer(certificate, authClient, checkRevoke);
+                var server = new SslTcpServer(certificate, password, authClient, checkRevoke);
                 server.Run();
             }
             catch (CryptographicException ex)

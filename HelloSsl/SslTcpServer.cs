@@ -18,10 +18,10 @@ namespace Examples.System.Net
 
         // The certificate parameter specifies the name of the file 
         // containing the machine certificate.
-        public SslTcpServer(string certificate, bool authClient, bool checkRevoke)
+        public SslTcpServer(string certificate, string password, bool authClient, bool checkRevoke)
         {
             mCertificate = new X509Certificate2(certificate,
-                "catapult",
+                password,
                 X509KeyStorageFlags.PersistKeySet
                 | X509KeyStorageFlags.Exportable);
 

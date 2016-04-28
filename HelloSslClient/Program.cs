@@ -15,6 +15,7 @@ namespace HelloSslClient
                 string serverName = null;
                 string machineName = null;
                 string clientCert = null;
+                string password = null;
                 int port = 8080;
 
                 if (args == null || args.Length < 1)
@@ -49,9 +50,14 @@ namespace HelloSslClient
                         var portNum = args[++argc];
                         port = Int32.Parse(portNum);
                     }
+
+                    if (args[argc] == "--password")
+                    {
+                        password = args[++argc];
+                    }
                 }
 
-                var client = new SslTcpClient(serverName, clientCert, machineName);
+                var client = new SslTcpClient(serverName, clientCert, machineName, password);
                 client.RunClient(port);
                 return 0;
 

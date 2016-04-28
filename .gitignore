@@ -14,6 +14,10 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 
+# Visual studio stuff.
+*.suo
+*.user
+
 # Windows shortcuts
 *.lnk
 
@@ -47,7 +51,7 @@ Temporary Items
 .apdisk
 
 # SSL certificates!
-.pem
-.cer
-.pvk
-.pfx
+*.pem
+*.cer
+*.pvk
+*.pfx

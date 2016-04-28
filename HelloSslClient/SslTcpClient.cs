@@ -16,12 +16,12 @@ namespace HelloSslClient
         private String mMachineName;
         private X509Certificate2Collection mClientCertificates;
 
-        public SslTcpClient(string serverName, string certificate, string machineName)
+        public SslTcpClient(string serverName, string certificate, string machineName, string password)
         {
             mServerName = serverName;
             mMachineName = machineName;
 
-            var clientCertificate = new X509Certificate2(certificate, "catapult");
+            var clientCertificate = new X509Certificate2(certificate, password);
             var certCollection = new X509Certificate2[1];
             certCollection[0] = clientCertificate;
 
