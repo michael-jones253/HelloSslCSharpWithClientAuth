@@ -31,6 +31,8 @@ Save "Console1 to Windows Administrative Tools" to some name e.g. Console1Certif
 
 
 Then when need to run MMC again don't need to add snap in. Just File -> Open -> Console1Certificates.msc
+.msc file was saved to:
+C:\Users\<michael>\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Administrative Tools
 
 Then can do things such as Trusted Root Certification Authorities -> Certificates -> All Tasks -> Import.
 
